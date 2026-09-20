@@ -1,0 +1,7 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+outputs/
+figures/
+tests/reference_tables/

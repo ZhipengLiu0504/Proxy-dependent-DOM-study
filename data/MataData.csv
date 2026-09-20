@@ -1,0 +1,25 @@
+﻿ID,Group,environment,reservoir,site,sample ID in MS
+WS1L1,S1,water,1,1,sample 1
+WS1L2,S1,water,1,2,sample 3
+WS1L3,S1,water,1,3,sample 5
+WS1L4,S1,water,1,4,NA
+WS2L1,S2,water,2,1,sample 7
+WS2L2,S2,water,2,2,NA
+WS2L3,S2,water,2,3,NA
+WS2L4,S2,water,2,4,NA
+WS3L1,S3,water,3,1,sample 9
+WS3L2,S3,water,3,2,NA
+WS3L3,S3,water,3,3,NA
+WS3L4,S3,water,3,4,NA
+BS1L1,S1,biofilm,1,1,sample 2
+BS1L2,S1,biofilm,1,2,sample 4
+BS1L3,S1,biofilm,1,3,sample 6
+BS1L4,S1,biofilm,1,4,NA
+BS2L1,S2,biofilm,2,1,sample 8
+BS2L3,S2,biofilm,2,2,NA
+BS2L4,S2,biofilm,2,3,NA
+BS3L1,S3,biofilm,3,1,sample 10
+BS3L2,S3,biofilm,3,2,NA
+BS3L3,S3,biofilm,3,3,NA
+BS3L4,S3,biofilm,3,4,NA
+BS2L2,S2,biofilm,2,4,NA

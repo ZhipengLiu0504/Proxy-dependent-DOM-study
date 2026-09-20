@@ -1,0 +1,23 @@
+figure,stage,object,width_in,height_in,purpose
+Fig1a,01_ms_composition,p_proxy_env_stacked,11,6,Mean sample-level molecular-pool composition
+Fig1b,01_ms_composition,p_rdoc_bdoc,12,6,RDOC and BDOC proxy proportions
+Fig1c,01_ms_composition,p_vkmap_env,12,6,Habitat-level Van Krevelen distribution
+Fig1d,01_ms_composition,p_vk_density,12,6,Van Krevelen density
+Fig2a,02_community_pathways,p_bubble,11,7,Top 20 genera by habitat
+Fig2b,05_taxa_function,p_joint_sample,15,12,Sample-level taxa and predicted functions
+Fig2c,02_community_pathways,p_B,13,14,Group-level pathway log2 ratio
+Fig2d,05_taxa_function,p_cor,16,11,Taxa-function Spearman associations
+Fig3a,03_proxy_diablo,p_custom_heatmap,14,10,Selected proxy and genus z scores
+Fig3b,03_proxy_diablo,p_loading_dom,10,7,Component 1 DOM proxy loadings
+Fig3c,03_proxy_diablo,p_loading_microbe,10,7,Component 1 genus loadings
+Fig4a,03_proxy_diablo,p_dom_selected_bar,12,10,Relative DOM proxies and Welch tests
+Fig4b,03_proxy_diablo,p_microbe_selected_bar,12,10,Relative genera and Welch tests
+Fig4c,03_proxy_diablo,p_dom_sub,12,10,Reservoir 1 paired DOM comparisons
+Fig4d,03_proxy_diablo,p_microbe_sub,12,10,Reservoir 1 paired genus comparisons
+Fig5a,03_proxy_diablo,p_proxy_spearman_heatmap,11,6,Filtered proxy-genus correlations
+Fig5b,03_proxy_diablo,p_proxy_spearman_network,13,7,Filtered proxy-genus network
+FigS3,01_ms_composition,p_proxy_sample,14,6,Per-sample molecular-pool composition
+FigS4,01_ms_composition,p_vkmap_sample,13,14,Per-sample Van Krevelen diagrams
+FigS5,02_community_pathways,p,10,7,Habitat-level top 10 genera plus Others
+FigS6,04_formula_diablo,diablo_res,12,7,Formula-level DIABLO sample scores
+FigS7,03_proxy_diablo,p_tic,5,5,Total assigned peak intensity and Welch test
